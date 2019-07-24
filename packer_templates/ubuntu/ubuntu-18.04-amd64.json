@@ -285,6 +285,7 @@
         "../_common/parallels.sh",
         "scripts/hyperv.sh",
         "scripts/cleanup.sh",
+        "scripts/install_packages_oxvm.sh",
         "../_common/minimize.sh"
       ],
       "type": "shell"
